@@ -1,4 +1,4 @@
-This repository contains the specifications.
+编码规范化合集
 
 
 - [Javascript编码规范](javascript-style-guide.md) <span class="std-rec">[1.3]</span>
